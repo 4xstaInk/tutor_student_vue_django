@@ -1,0 +1,16 @@
+== 4xsta Ink ==
+
+Backend:-
+Django
+Django Rest Framework
+PyMySQL (for MySQL)
+django-cors-headers
+
+Frontend:-
+Vue3
+axios
+vue-router
+ 
+== Contact
+## meshullammulenga@gmail.com
+## +260973983884
